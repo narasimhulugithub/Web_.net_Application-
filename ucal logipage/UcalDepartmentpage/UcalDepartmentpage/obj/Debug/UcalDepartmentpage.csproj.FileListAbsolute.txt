@@ -1,0 +1,10 @@
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\bin\Debug\UcalDepartmentpage.exe.config
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\bin\Debug\UcalDepartmentpage.exe
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\bin\Debug\UcalDepartmentpage.pdb
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.csproj.AssemblyReference.cache
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.Form1.resources
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.Properties.Resources.resources
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.csproj.GenerateResource.cache
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.csproj.CoreCompileInputs.cache
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.exe
+D:\narasimhulu\Ucal project\UcalDepartmentpage\UcalDepartmentpage\obj\Debug\UcalDepartmentpage.pdb
